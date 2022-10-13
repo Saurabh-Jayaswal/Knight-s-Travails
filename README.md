@@ -1,6 +1,6 @@
 # knights-travails
 
-![knights-travails-gif](./src/assets/Knight_T.pn)
+![knights-travails-gif](./src/assets/Knight_T.png)
 
 Finds the shortest possible route for a knight to move from one square to another on a chessboard of variable size N, and returns the Knights path.
 
